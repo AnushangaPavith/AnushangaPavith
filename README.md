@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnushangaPavith
 - 👀 I’m interested in new technology, software, embeded systems, programing, networking and cybersecurity.
 - 🌱 I’m currently learning Computer Engineering at University of Peradeniya.
-- 💞️ I’m looking to collaborate on ...
+- 💻 I’m looking to collaborate on ...
 - 📫 How to reach me : anushangapavith2@gmail.com
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=AnushangaPavith&count_private=true&show_icons=true&theme=default" />
