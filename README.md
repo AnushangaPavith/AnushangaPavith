@@ -18,3 +18,9 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+
+<a href="www.linkedin.com/in/anushanga-pavith"><img src="png/Linkedin.png" alt="Linkedin account" style="width:75px;height:75px;"></a>
+<a href="https://sites.google.com/view/anushangapavith/home"><img src="png/web.png" alt="Linkedin account" style="width:75px;height:75px;"></a>
+<a href=""><img src="png/Intagram.png" alt="Instagram" style="width:75px;height:75px;"></a>
+<a href=""><img src="png/Facebook.png" alt="Linkedin account" style="width:75px;height:75px;"></a>
