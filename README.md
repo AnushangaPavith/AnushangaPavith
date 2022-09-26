@@ -9,7 +9,8 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushangaPavith&layout=compact&hide=verilog" />
 
 &nbsp;
-<br/>
+<br />
+<br />
 &nbsp;
 
 <a href="https://www.linkedin.com/in/anushanga-pavith/" target="_blank"><img src="png/Linkedin.png" alt="Linkedin account" style="width:70px;height:70px;"></a>
