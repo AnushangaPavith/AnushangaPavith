@@ -12,8 +12,8 @@
 <br/>
 &nbsp;
 
-<a href="https://www.linkedin.com/in/anushanga-pavith/"><img src="png/Linkedin.png" alt="Linkedin account" style="width:75px;height:75px;"></a>
-<a href="https://sites.google.com/view/anushangapavith/home"><img src="png/web.png" alt="Website" style="width:75px;height:75px;"></a>
-<a href="https://github.com/AnushangaPavith"><img src="png/Github.png" alt="Github account" style="width:75px;height:75px;"></a>
-<a href=""><img src="png/Intagram.png" alt="Instagram" style="width:75px;height:75px;"></a>
-<a href="https://www.facebook.com/anushanga.thalisha"><img src="png/Facebook.png" alt="Facebook account" style="width:75px;height:75px;"></a>
+<a href="https://www.linkedin.com/in/anushanga-pavith/"><img src="png/Linkedin.png" alt="Linkedin account" style="width:60px;height:60px;"></a>
+<a href="https://sites.google.com/view/anushangapavith/home"><img src="png/web.png" alt="Website" style="width:60px;height:60px;"></a>
+<a href="https://github.com/AnushangaPavith"><img src="png/Github.png" alt="Github account" style="width:60px;height:60px;"></a>
+<a href=""><img src="png/Intagram.png" alt="Instagram" style="width:60px;height:60px;"></a>
+<a href="https://www.facebook.com/anushanga.thalisha"><img src="png/Facebook.png" alt="Facebook account" style="width:60px;height:60px;"></a>
