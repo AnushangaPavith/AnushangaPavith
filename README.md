@@ -12,14 +12,6 @@
 <br/>
 &nbsp;
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-
 <a href="https://www.linkedin.com/in/anushanga-pavith/"><img src="png/Linkedin.png" alt="Linkedin account" style="width:75px;height:75px;"></a>
 <a href="https://sites.google.com/view/anushangapavith/home"><img src="png/web.png" alt="Linkedin account" style="width:75px;height:75px;"></a>
 <a href=""><img src="png/Intagram.png" alt="Instagram" style="width:75px;height:75px;"></a>
