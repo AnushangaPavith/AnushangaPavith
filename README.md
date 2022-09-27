@@ -4,9 +4,11 @@
 - 💻 I’m looking to collaborate on ...
 - 📫 How to reach me : anushangapavith2@gmail.com
 
+<p>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=AnushangaPavith&count_private=true&show_icons=true&theme=default" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushangaPavith&layout=compact&hide=verilog" />
+</p>
 
 &nbsp;
 <br />
