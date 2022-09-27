@@ -13,10 +13,12 @@
 <br />
 &nbsp;
 
-<a href="https://www.linkedin.com/in/anushanga-pavith/"><img src="png/Linkedin.png" alt="Linkedin account" style="width:70px;height:70px;"></a>
-<a href="https://sites.google.com/view/anushangapavith/home"><img src="png/web.png" alt="Website" style="width:70px;height:70px;"></a>
-<a href="mailto:anushangapavith2@gmail.com"><img src="png/Email.png" alt="e-mail" style="width:70px;height:70px;"></a>
-<a href="https://github.com/AnushangaPavith"><img src="png/Github.png" alt="Github account" style="width:70px;height:70px;"></a>
-<a href="https://www.hackerrank.com/e18_anushanga"><img src="png/HackerRank.png" alt="e-mail" style="width:70px;height:70px;"></a>
-<a href="https://www.instagram.com/anushanga_pavith?r=nametag"><img src="png/Instagram.png" alt="Instagram" style="width:70px;height:70px;"></a>
-<a href="https://www.facebook.com/anushanga.thalisha"><img src="png/Facebook.png" alt="Facebook account" style="width:70px;height:70px;"></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/anushanga-pavith/"><img src="png/Linkedin.png" alt="Linkedin account" style="width:70px;height:70px;"></a>
+  <a href="https://sites.google.com/view/anushangapavith/home"><img src="png/web.png" alt="Website" style="width:70px;height:70px;"></a>
+  <a href="mailto:anushangapavith2@gmail.com"><img src="png/Email.png" alt="e-mail" style="width:70px;height:70px;"></a>
+  <a href="https://github.com/AnushangaPavith"><img src="png/Github.png" alt="Github account" style="width:70px;height:70px;"></a>
+  <a href="https://www.hackerrank.com/e18_anushanga"><img src="png/HackerRank.png" alt="e-mail" style="width:70px;height:70px;"></a>
+  <a href="https://www.instagram.com/anushanga_pavith?r=nametag"><img src="png/Instagram.png" alt="Instagram" style="width:70px;height:70px;"></a>
+  <a href="https://www.facebook.com/anushanga.thalisha"><img src="png/Facebook.png" alt="Facebook account" style="width:70px;height:70px;"></a>
+</p>
