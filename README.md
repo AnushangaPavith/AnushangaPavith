@@ -7,15 +7,14 @@
 <p>
 <!-- <img align="left" width="51%" src="https://github-readme-stats.vercel.app/api?username=AnushangaPavith&count_private=true&show_icons=true&theme=default&include_all_commits=true" /> -->
   
- <img align="left" width="51%" src="https://github-readme-stats.vercel.app/api?username=AnushangaPavith&count_private=true&show_icons=true&theme=default" />
+ <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=AnushangaPavith&count_private=true&show_icons=true&theme=default" />
 
 <!-- <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushangaPavith&layout=compact&hide=verilog&langs_count=6" /> -->
-<img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushangaPavith&layout=compact&langs_count=6" />
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushangaPavith&layout=compact&langs_count=6" />
 </p>
 
 &nbsp;
-<br/><br/><br/><br/>
-&nbsp;
+<br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anushanga-pavith/"><img src="png/Linkedin.png" alt="Linkedin account" style="width:50px;height:50px;"></a>
