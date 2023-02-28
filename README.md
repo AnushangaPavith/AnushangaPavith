@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anushanga-pavith/"><img src="png/linkedin_line_black.png" alt="Linkedin account" style="width:50px;height:50px;"></a>
-  <a href="http://anushanga.epizy.com/"><img src="png/web_line_black.png" alt="Website" style="width:50px;height:50px;"></a>
+  <a href="https://anushangapavith.nicepage.io/"><img src="png/web_line_black.png" alt="Website" style="width:50px;height:50px;"></a>
   <a href="mailto:anushangapavith2@gmail.com"><img src="png/gmail_line_black.png" alt="e-mail" style="width:50px;height:50px;"></a>
   <a href="https://github.com/AnushangaPavith"><img src="png/github_line_black.png" alt="Github account" style="width:50px;height:50px;"></a>
   <a href="https://www.hackerrank.com/e18_anushanga"><img src="png/hackerrank_line_black.png" alt="e-mail" style="width:50px;height:50px;"></a>
