@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnushangaPavith
 - 👀 I’m interested in new technology, software, embeded systems, programing, networking and cybersecurity.
 - 🌱 I’m currently learning Computer Engineering at University of Peradeniya.
-- 💻 I’m looking to collaborate on ...
+- 💻 I am currently seeking internship opportunities to enhance my skills.
 - 📫 How to reach me : anushangapavith2@gmail.com
 
 <p>
