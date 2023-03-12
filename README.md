@@ -23,5 +23,5 @@
   <a href="https://github.com/AnushangaPavith"><img src="png/github_line_black.png" alt="Github account" style="width:50px;height:50px;"></a>
   <a href="https://www.hackerrank.com/e18_anushanga"><img src="png/hackerrank_line_black_new.png" alt="e-mail" style="width:50px;height:50px;"></a>
   <a href="https://www.instagram.com/anushanga_pavith?r=nametag"><img src="png/instagram_line_black.png" alt="Instagram" style="width:50px;height:50px;"></a>
-  <a href="https://www.facebook.com/anushanga.thalisha"><img src="png/facebook_line_black.png" alt="Facebook account" style="width:50px;height:50px;"></a>
+  <a href="https://www.facebook.com/anushanga.pavith/"><img src="png/facebook_line_black.png" alt="Facebook account" style="width:50px;height:50px;"></a>
 </p>
