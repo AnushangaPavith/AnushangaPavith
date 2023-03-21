@@ -5,7 +5,7 @@
 - 📫 How to reach me : anushangapavith2@gmail.com
 
 <p>
-<!-- <img align="left" width="51%" src="https://github-readme-stats.vercel.app/api?username=AnushangaPavith&count_private=true&show_icons=true&theme=default&include_all_commits=true" /> -->
+<!-- <img align="left" width="51%" src="https://github-readme-stats-ruby-one.vercel.app/api?username=AnushangaPavith&count_private=true&show_icons=true&theme=default&include_all_commits=true" /> -->
   
  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=AnushangaPavith&count_private=true&show_icons=true&theme=default" />
 
