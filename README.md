@@ -7,9 +7,9 @@
 <p>
 <!-- <img align="left" width="51%" src="https://github-readme-stats-ruby-one.vercel.app/api?username=AnushangaPavith&count_private=true&show_icons=true&theme=default&include_all_commits=true" /> -->
   
- <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=AnushangaPavith&count_private=true&show_icons=true&theme=default" />
+ <img align="left" width="48%" src="[https://github-readme-stats.vercel.app](https://github-readme-stats-ruby-one.vercel.app)/api?username=AnushangaPavith&count_private=true&show_icons=true&theme=default" />
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushangaPavith&layout=compact&hide=css&langs_count=6" />
+<img align="left" width="45%" src="[https://github-readme-stats.vercel.app](https://github-readme-stats-ruby-one.vercel.app)/api/top-langs/?username=AnushangaPavith&layout=compact&hide=css&langs_count=6" />
 <!-- <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushangaPavith&layout=compact&langs_count=6" /> -->
 </p>
 
