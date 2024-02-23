@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AnushangaPavith
-- 👀 I’m interested in new technology, software, embeded systems, programing, networking and cybersecurity.
-- 🌱 I’m currently learning Computer Engineering at University of Peradeniya.
-- 💻 I am currently wroking as a Software Engineer Intern at GTN Technologies.
-- 📫 How to reach me : anushangapavith2@gmail.com
+- 👀 I’m interested in new technology, software, programming, AI and cybersecurity.
+- 🌱 I’m currently learning Computer Engineering at the University of Peradeniya.
+- 💻 I am working as a Software Engineer Intern at GTN Technologies.
+- 📫 How to reach me: anushangapavith2@gmail.com
 
 <p>
 <!-- <img align="left" width="51%" src="https://github-readme-stats-ruby-one.vercel.app/api?username=AnushangaPavith&count_private=true&show_icons=true&theme=default&include_all_commits=true" /> -->
