@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnushangaPavith
 - 👀 I’m interested in new technology, software, programming, AI and cybersecurity.
 - 🌱 I’m currently learning Computer Engineering at the University of Peradeniya.
-- 💻 I worked as a Software Engineer Intern at GTN Technologies.
+- 💻 I completed my internship program at GTN Technologies as a Software Engineer.
 - 📫 How to reach me: anushangapavith2@gmail.com
 
 <p>
